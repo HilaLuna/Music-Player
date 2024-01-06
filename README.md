@@ -5,7 +5,7 @@ A simple music player design
 
 <h2> Project Overview </h2>
 
-A basic music player that includes functionalities like play, pause, next, previous, mix and a playlist display. 
+A basic music player that includes functionalities like play, pause, next, previous, mix buttons and a playlist display. 
 
 <h2> Features </h2> </br>
 
@@ -13,11 +13,11 @@ A basic music player that includes functionalities like play, pause, next, previ
 
 <li> <b> Play and Pause Controls: </b> Easily start or pause playback with the control buttons. </li> </br>
 
-<li> <b> Next & Previous Tracks </b> These buttons help navigate through the playlist using the forward and backward buttons. </li> </br>
+<li> <b> Next & Previous Tracks: </b> These buttons help navigate through the playlist using the forward and backward buttons. </li> </br>
 
-<li> <b> Mix Control </b> When clicked on, it mixes the playlist. </li> </br>
+<li> <b> Mix Control: </b> When clicked on, it mixes the playlist. </li> </br>
 
-<li> <b> Playlist Display </b> View the list of songs in the playlist created with the simply designed interface. </li> </br>
+<li> <b> Playlist Display: </b> View the list of songs in the playlist created with the simply designed interface. </li> </br>
 
 </ul>
 
